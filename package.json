@@ -1,0 +1,11 @@
+{
+  "name": "gitcodes",
+  "version": "1.0.0",
+  "description": "getting niftydata",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwin Vijayendra",
+  "license": "MIT"
+}
